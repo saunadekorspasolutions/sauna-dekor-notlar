@@ -1,4 +1,19 @@
 {
   "name": "Sauna Dekor Notlar",
-  "description": "Sauna, buhar odası ve hamam üzerine teknik notlar"
+  "description": "Sauna, buhar odası ve hamam üzerine teknik notlar",
+  "sidebar": [
+    {
+      "group": "Notlar",
+      "pages": [
+        {
+          "title": "Sauna ahşabında nem",
+          "href": "/"
+        },
+        {
+          "title": "Hamam kurnası: ölçüler ve yerleşim",
+          "href": "/hamam-kurnasi-olculeri-ve-yerlesimi"
+        }
+      ]
+    }
+  ]
 }
